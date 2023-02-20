@@ -1,5 +1,5 @@
 # Credit-Card-Fraud-Detection-Api
 Machine Learning Api that predicts Credit Card Fraud
 
-Api created with Fast Api and Uvicorn as web server implementation.
+Api created with Fast Api and Uvicorn as web server.
 Machine learning model was trained with KNN.
