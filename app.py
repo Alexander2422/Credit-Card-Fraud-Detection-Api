@@ -14,9 +14,6 @@ classifier = pickle5.load(pickle_in)
 def index():
     return {'message':"The accuracy of this model is 92%"}
 
-@app.get('/')
-def index():
-    return {'message':"The accuracy of this model is 92%, and it was created with python"}
 
 
 @app.post('/predict')
